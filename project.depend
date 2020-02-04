@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1563012542 source:c:\users\aman\downloads\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1563264217 source:d:\c projects\password protected diary\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
